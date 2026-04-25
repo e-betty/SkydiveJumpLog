@@ -1,8 +1,8 @@
 # Portfolio Part 6: Finishing Touches
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
-- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
+- **Name**: Eliabeth Frieler
+- **Dot Number**: frieler.1
+- **Due Date**: 04.24.2026 11:59 PM
 
 ## Assignment Overview
 
@@ -50,7 +50,7 @@ course, but just knowing about them could set you up for long term success.
 
 ## Assignment Checklist
 
-<!-- TODO: browse the checklist then delete this comment -->
+
 
 To be sure you have completed everything on this assignment, we have littered
 this document with TODO comments. You can browse all of them in VSCode by
@@ -307,18 +307,18 @@ Take some time to fill them out honestly.
 > complete the portfolio project, how much better (or worse) do you think you
 > understand software development and why?
 
-<!-- TODO: discuss -->
+I understand software development better now because this project showed how one idea can be built in layers. Before, interfaces, abstract classes, and implementations felt more separate to me. Making my own component, especially one that fits my interests, helped me see why those pieces exist and how they fit together.
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
-<!-- TODO: discuss -->
+One gap this project showed was that I still get confused by GitHub branches and project setup. I also had to slow down with testing because this project did not use a reference implementation. I addressed this by working step by step and checking object state directly in my tests.
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
-<!-- TODO: discuss -->
+I still enjoy software development, but I understand more now that it is not just writing code. A lot of it is planning, organizing files, testing, and making sure the design can actually be used later.
 
 > One of the challenges of completing the portfolio project is picking up a lot
 > of skills on your own. Some of these skills are, of course, software skills.
@@ -326,29 +326,32 @@ Take some time to fill them out honestly.
 > this process. Therefore, the first question is what skills did you pick up
 > through this process?
 
-<!-- TODO: discuss -->
+I picked up more practice with GitHub, branches, pull requests, JUnit testing, interfaces, abstract classes, and kernel implementations. I also got better at thinking about whether a design is realistic before trying to code it.
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
 
-<!-- TODO: discuss -->
+- Designed and implemented a Java component using interfaces, an abstract class, and a kernel implementation
+- Wrote JUnit tests to check component behavior and object state
+- Used GitHub branches and pull requests to manage project submissions
+- Created example use cases to demonstrate how a component could be used
 
 > Next, how has working on this project affected your career trajectory?
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
-<!-- TODO: discuss -->
+This project made me more interested in building small tools connected to real interests. Since I chose skydiving, the project felt more personal and easier to care about than a random example.
 
 > Finally, consider the skills you've picked up and your current career
 > trajectory. What are some things you could do to continue on your
 > career trajectory? Also, who are some mentors you could contact to help
 > you stay on your path?
 
-<!-- TODO: discuss -->
+To keep moving forward, I can keep building small projects and focus on testing and GitHub practice. I could also ask professors - Grifski, perhaps- , TAs, or people working in software-related roles for advice on making projects more polished and useful.
 
 ### Changelog
 
-<!-- TODO: update CHANGELOG then delete this comment -->
+
 
 At the end of every assignment, you should update the
 [CHANGELOG.md](../../CHANGELOG.md) file found in the root of the project folder.
@@ -367,8 +370,8 @@ the following form: YYYY.0M.0D.
 
 ### Added
 
-- Designed test suite for <!-- insert name of component here --> component
-- Designed two different use cases for <!-- insert name of component here --> component
+- Designed test suite for SkyDiveJumpLog component
+- Designed two different use cases for SkyDiveJumpLog component
 
 ### Updated
 
@@ -384,7 +387,7 @@ request merge (or at least tag your commits). This is not required.
 
 ### Submission
 
-<!-- TODO: read the submission instructions then delete this comment -->
+
 
 Assuming that your project is in a GitHub repo somewhere and your changes are on
 a proof-of-concept branch, then what we'll want you to do is create a pull
@@ -436,6 +439,6 @@ If you'd like to give feedback for this assignment (or any assignment, really),
 make use of [this survey][survey]. Your feedback helps make assignments
 better for future students.
 
-<!-- TODO: follow the link to share your feedback then delete this comment -->
+
 
 [survey]: https://forms.gle/dumXHo6A4Enucdkq9
